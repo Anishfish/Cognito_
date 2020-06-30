@@ -1,15 +1,3 @@
 Patient1234, x*7, 300620, x*4,  17:45:19, L, 0.1079,0.1909,0.1909
 Patient1234, x*7, 300620, x*4,  17:45:19, L, 0.0969,0.4158,0.4158
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient1234{Date}{timestamp}, {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient123430062017:56:08 {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient123430062017:56:39 {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient123430062017:56:40 {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient123430062017:56:41 {Cow}, {hold_time},{round(release_time, 4)},{release_time}
-Patient123430062017:56:41 {Cow}, {hold_time},{round(release_time, 4)},{release_time}
+
